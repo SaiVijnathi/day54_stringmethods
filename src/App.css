@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: teal;
+}
+
+div{
+  width: 700px;
+  margin: auto;
+}
+
+button{
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 15px 40px 15px 15px;
+  width: 280px;
+  padding: 8px;
+  color: teal;
+  border-radius: 10px;
+  border: 2px solid transparent;
+}
+
+button:hover{
+  background-color: teal;
+  color: white;
+  border: 2px solid white;
+}
+
+h1{
+  color: white;
+}
